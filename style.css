@@ -19,7 +19,7 @@ background-color: aqua;
     display: flex;
     flex-direction: column;
     padding: 5px;
-    width: 75px;
+    width: 75%;
     background-color: rgba(0, 0, 0, 0.777);
     height: 100%;
 }
