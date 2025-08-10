@@ -13,9 +13,10 @@ background-color: aqua;
 .cantainer{
     display: flex;
     height: 100%;
+    witdh:100%
 }
 
-#tool{
+#tool{;
     display: flex;
     flex-direction: column;
     padding: 5px;
